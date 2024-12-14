@@ -1,0 +1,5 @@
+/docs/* linguist-vendored
+/build/* linguist-vendored
+
+*.md linguist-documentation
+*.yml linguist-vendored
