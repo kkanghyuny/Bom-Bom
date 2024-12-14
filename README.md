@@ -107,31 +107,63 @@
   - Ubuntu 20.04.6 LTS
   - Jenkins 2.452.3
 
-## Author
+## 팀원
 
-**박정의**
+### Frontend
 
-- Github: [@justice-7](https://github.com/justice-7)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/AhnHongchan"><img src="https://avatars.githubusercontent.com/u/156401196?s=100&v=4" width="100" height="100"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/AhnHongchan" title="Closed Pull Requests">안홍찬</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**안홍찬**
+### Backend
 
-- Github: [@AhnHongchan](https://github.com/AhnHongchan)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/kkanghyuny"><img src="https://avatars.githubusercontent.com/u/130138811?s=100&v=4" width="100" height="100"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/kkanghyuny" title="Closed Pull Requests">이강현</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**유병주**
+### Wifi CSI
 
-- Github: [@youbj](https://github.com/youbj)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/LDG12"><img src="https://avatars.githubusercontent.com/u/99185099?v=4" width="100" height="100"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/LDG12" title="Closed Pull Requests">임동길</a></td>
+    </tr>
+  </tbody>
+</table>
 
-**윤정섭**
+### AI
 
-- Github: [@SEOP-YOON](https://github.com/SEOP-YOON)
-
-**이강현**
-
-- Github: [@kkanghyuny](https://github.com/kkanghyuny)
-
-**임동길**
-
-- Github: [@LDG12](https://github.com/LDG12)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/youbj"><img src="https://avatars.githubusercontent.com/u/39815497?v=4" width="100" height="100"/></a></td>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/justice-7"><img src="https://avatars.githubusercontent.com/u/81703684?v=4" width="100" height="100"/></a></td>
+      <td align="center" valign="top" width="5%"><a href="https://github.com/SEOP-YOON"><img src="https://avatars.githubusercontent.com/u/75006671?v=4" width="100" height="100"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/youbj" title="Closed Pull Requests">유병주</a></td>
+        <td align="center"><a href="https://github.com/justice-7" title="Closed Pull Requests">박정의</a></td>
+        <td align="center"><a href="https://github.com/SEOP-YOON" title="Closed Pull Requests">윤정섭</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📝 라이선스
 
